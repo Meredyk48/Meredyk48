@@ -1,65 +1,58 @@
-# Bruno Meredyk
+# Bruno Lazzari Meredyk
 ## Technical Writer
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/meredyknobru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-lazzari-meredyk-8831122b4/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brmeredyk@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Meredyk48&style=for-the-badge)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/meredyknobru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-lazzari-meredyk-8831122b4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:brmeredyk@gmail.com)
 
----
-
-## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meredyk48&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meredyk48&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meredyk48&theme=github_dark&utcOffset=-3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meredyk48&layout=compact&langs_count=4&theme=github_dark" />
+
 </p>
 
 ---
 
-## 🖥️ Linguagens de Programação
+## Linguagens de Programação
 
 <p>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://dart.dev/guides" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 ---
 
-## 🧰 Ferramentas & Frameworks
+## Ferramentas & Frameworks
 
-<p>
+<div>
   <a href="https://flutter.dev/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
-</p>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+</div>
+
+
 
 ---
 
-## 📈 Calendário de Contribuições
+<!--
+## Calendário de Contribuições
 
 <p align="center">
   <picture>
@@ -68,3 +61,4 @@
     <img alt="snake animation" src="https://raw.githubusercontent.com/Meredyk48/Meredyk48/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+-->
