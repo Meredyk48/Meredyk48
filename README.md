@@ -6,13 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:brmeredyk@gmail.com)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meredyk48&show_icons=true&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meredyk48&theme=github_dark&utcOffset=-3" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meredyk48&layout=compact&langs_count=4&theme=github_dark" />
-
-</p>
-
 ---
 
 ## Linguagens de Programação
